@@ -1,5 +1,4 @@
-fastapi
-uvicorn
+fastapi[all]
 scikit-learn
 pandas
 numpy
