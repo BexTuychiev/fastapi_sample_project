@@ -10,6 +10,7 @@
 .idea/**/shelf
 .idea
 data
+models
 # Generated files
 .idea/**/contentModel.xml
 
